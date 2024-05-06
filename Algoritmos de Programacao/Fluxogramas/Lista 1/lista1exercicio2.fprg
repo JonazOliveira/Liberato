@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="24100169"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-03-04 09:36:59 "/>
+        <attribute name="created" value="MjQxMDAxNjk7TEFCNi0yMDsyMDI0LTAzLTA0OyIwOTowMzo0NCAiOzIwMDE="/>
+        <attribute name="edited" value="MjQxMDAxNjk7TEFCNi0yMDsyMDI0LTAzLTA0OyIwOTozNjo1OSAiOzM7MjEyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="largura, comprimento, area" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual a largura da sala?&quot;" newline="True"/>
+            <input variable="largura"/>
+            <output expression="&quot;Qual o comprimento da sala?&quot;" newline="True"/>
+            <input variable="comprimento"/>
+            <assign variable="area" expression="largura * comprimento"/>
+            <output expression="&quot;A &#225;rea da sala &#233; de &quot; &amp; area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

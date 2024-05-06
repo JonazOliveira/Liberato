@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jonas"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-03-05 12:45:15 AM"/>
+        <attribute name="created" value="am9uYXM7REVTSzAxOzIwMjQtMDMtMDU7MTI6Mzc6MDMgQU07MjE5Mg=="/>
+        <attribute name="edited" value="am9uYXM7REVTSzAxOzIwMjQtMDMtMDU7MTI6NDU6MTUgQU07MTsyMzAy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="media, nota" type="Real" array="False" size=""/>
+            <assign variable="media" expression="6"/>
+            <output expression="&quot;Qual a nota da aluno?&quot;" newline="True"/>
+            <input variable="nota"/>
+            <if expression="nota&gt;=media">
+                <then>
+                    <output expression="&quot;Aprovado!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Reprovado!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jonas"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-03-05 12:36:23 AM"/>
+        <attribute name="created" value="am9uYXM7REVTSzAxOzIwMjQtMDMtMDU7MTI6MTk6MTIgQU07MjE5Mg=="/>
+        <attribute name="edited" value="am9uYXM7REVTSzAxOzIwMjQtMDMtMDU7MTI6MzY6MjMgQU07MTsyMzAx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numSecret, num" type="Integer" array="False" size=""/>
+            <assign variable="numSecret" expression="10"/>
+            <output expression="&quot;Adivinhe o n&#250;mero secreto&quot;" newline="True"/>
+            <input variable="num"/>
+            <if expression="num==numSecret">
+                <then>
+                    <output expression="&quot;Parab&#233;ns, voc&#234; acertou o n&#250;mero!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="num&gt;numSecret">
+                        <then>
+                            <output expression="&quot;O n&#250;mero secreto n&#227;o &#233; t&#227;o alto&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;O n&#250;mero secreto n&#227;o &#233; t&#227;o baixo&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
