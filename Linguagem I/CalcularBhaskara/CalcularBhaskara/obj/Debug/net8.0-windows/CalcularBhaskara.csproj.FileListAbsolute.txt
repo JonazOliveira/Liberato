@@ -1,0 +1,16 @@
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0-windows\CalcularBhaskara.exe
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0-windows\CalcularBhaskara.deps.json
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0-windows\CalcularBhaskara.runtimeconfig.json
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0-windows\CalcularBhaskara.dll
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\bin\Debug\net8.0-windows\CalcularBhaskara.pdb
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.Form1.resources
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.csproj.GenerateResource.cache
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.AssemblyInfoInputs.cache
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.AssemblyInfo.cs
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.dll
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\refint\CalcularBhaskara.dll
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.pdb
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\CalcularBhaskara.genruntimeconfig.cache
+C:\Users\jonaswin\Desktop\Linguagem I\CalcularBhaskara\CalcularBhaskara\obj\Debug\net8.0-windows\ref\CalcularBhaskara.dll
