@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\bin\Debug\net8.0-windows\AulaForLoop.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\bin\Debug\net8.0-windows\AulaForLoop.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\bin\Debug\net8.0-windows\AulaForLoop.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\bin\Debug\net8.0-windows\AulaForLoop.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\bin\Debug\net8.0-windows\AulaForLoop.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\refint\AulaForLoop.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\AulaForLoop.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoop\AulaForLoop\obj\Debug\net8.0-windows\ref\AulaForLoop.dll
