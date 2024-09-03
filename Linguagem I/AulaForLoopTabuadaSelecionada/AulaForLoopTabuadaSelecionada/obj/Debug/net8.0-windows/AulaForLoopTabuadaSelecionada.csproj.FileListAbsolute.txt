@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\bin\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\bin\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\bin\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\bin\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\bin\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\refint\AulaForLoopTabuadaSelecionada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\AulaForLoopTabuadaSelecionada.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuadaSelecionada\AulaForLoopTabuadaSelecionada\obj\Debug\net8.0-windows\ref\AulaForLoopTabuadaSelecionada.dll

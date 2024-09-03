@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\bin\Debug\net8.0-windows\AulaForLoopTabuada.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\bin\Debug\net8.0-windows\AulaForLoopTabuada.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\bin\Debug\net8.0-windows\AulaForLoopTabuada.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\bin\Debug\net8.0-windows\AulaForLoopTabuada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\bin\Debug\net8.0-windows\AulaForLoopTabuada.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\refint\AulaForLoopTabuada.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\AulaForLoopTabuada.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForLoopTabuada\AulaForLoopTabuada\obj\Debug\net8.0-windows\ref\AulaForLoopTabuada.dll
