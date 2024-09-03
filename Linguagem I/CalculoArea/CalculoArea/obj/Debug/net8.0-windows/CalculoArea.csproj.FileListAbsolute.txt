@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\bin\Debug\net8.0-windows\CalculoArea.exe
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\bin\Debug\net8.0-windows\CalculoArea.deps.json
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\bin\Debug\net8.0-windows\CalculoArea.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\bin\Debug\net8.0-windows\CalculoArea.dll
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\bin\Debug\net8.0-windows\CalculoArea.pdb
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.dll
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\refint\CalculoArea.dll
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.pdb
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\CalculoArea.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\CalculoArea\CalculoArea\obj\Debug\net8.0-windows\ref\CalculoArea.dll
