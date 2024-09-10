@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\bin\Debug\net8.0-windows\AulaForAninhado.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\bin\Debug\net8.0-windows\AulaForAninhado.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\bin\Debug\net8.0-windows\AulaForAninhado.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\bin\Debug\net8.0-windows\AulaForAninhado.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\bin\Debug\net8.0-windows\AulaForAninhado.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\refint\AulaForAninhado.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\AulaForAninhado.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaForAninhado\AulaForAninhado\obj\Debug\net8.0-windows\ref\AulaForAninhado.dll
