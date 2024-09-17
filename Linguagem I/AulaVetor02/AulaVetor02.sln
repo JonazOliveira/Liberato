@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaVetor02", "AulaVetor02\AulaVetor02.csproj", "{FAAE2A0F-8372-4149-8237-7812131A309C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAE2A0F-8372-4149-8237-7812131A309C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAE2A0F-8372-4149-8237-7812131A309C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAE2A0F-8372-4149-8237-7812131A309C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAE2A0F-8372-4149-8237-7812131A309C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D56EE3C-C864-45F0-8908-C76B43B265AE}
+	EndGlobalSection
+EndGlobal

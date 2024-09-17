@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\bin\Debug\net8.0-windows\AulaVetor02.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\bin\Debug\net8.0-windows\AulaVetor02.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\bin\Debug\net8.0-windows\AulaVetor02.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\bin\Debug\net8.0-windows\AulaVetor02.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\bin\Debug\net8.0-windows\AulaVetor02.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\refint\AulaVetor02.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\AulaVetor02.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaVetor02\AulaVetor02\obj\Debug\net8.0-windows\ref\AulaVetor02.dll
