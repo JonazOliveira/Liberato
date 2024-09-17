@@ -1,0 +1,16 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\bin\Debug\net8.0-windows\AulaMatriz01.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\bin\Debug\net8.0-windows\AulaMatriz01.deps.json
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\bin\Debug\net8.0-windows\AulaMatriz01.runtimeconfig.json
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\bin\Debug\net8.0-windows\AulaMatriz01.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\bin\Debug\net8.0-windows\AulaMatriz01.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.AssemblyInfoInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.AssemblyInfo.cs
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\refint\AulaMatriz01.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\AulaMatriz01.genruntimeconfig.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaMatriz01\AulaMatriz01\obj\Debug\net8.0-windows\ref\AulaMatriz01.dll
