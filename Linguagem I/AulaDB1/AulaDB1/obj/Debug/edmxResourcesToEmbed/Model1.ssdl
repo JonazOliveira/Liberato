@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cidade">
+    <Key>
+      <PropertyRef Name="IdCidade" />
+    </Key>
+    <Property Name="IdCidade" Type="numeric" Precision="11" Scale="0" Nullable="false" />
+    <Property Name="nomeCidade" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="UF" Type="char" MaxLength="2" Nullable="false" />
+    <Property Name="pais" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="idade" Type="numeric" Precision="3" Scale="0" Nullable="false" />
+    <Property Name="IdCidade" Type="numeric" Precision="11" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Produto">
+    <Key>
+      <PropertyRef Name="IdProduto" />
+    </Key>
+    <Property Name="IdProduto" Type="numeric" Precision="11" Scale="0" Nullable="false" />
+    <Property Name="descricao" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Cliente__IdCidad__3C69FB99">
+    <End Role="Cidade" Type="Self.Cidade" Multiplicity="1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cidade">
+        <PropertyRef Name="IdCidade" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="IdCidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Cidade" EntityType="Self.Cidade" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Produto" EntityType="Self.Produto" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Cliente__IdCidad__3C69FB99" Association="Self.FK__Cliente__IdCidad__3C69FB99">
+      <End Role="Cidade" EntitySet="Cidade" />
+      <End Role="Cliente" EntitySet="Cliente" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

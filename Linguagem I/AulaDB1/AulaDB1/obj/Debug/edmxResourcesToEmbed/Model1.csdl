@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cidade">
+    <Key>
+      <PropertyRef Name="IdCidade" />
+    </Key>
+    <Property Name="IdCidade" Type="Decimal" Precision="11" Scale="0" Nullable="false" />
+    <Property Name="nomeCidade" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UF" Type="String" MaxLength="2" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="pais" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK__Cliente__IdCidad__3C69FB99" FromRole="Cidade" ToRole="Cliente" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="nome" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="idade" Type="Decimal" Precision="3" Scale="0" Nullable="false" />
+    <Property Name="IdCidade" Type="Decimal" Precision="11" Scale="0" Nullable="false" />
+    <NavigationProperty Name="Cidade" Relationship="Self.FK__Cliente__IdCidad__3C69FB99" FromRole="Cliente" ToRole="Cidade" />
+  </EntityType>
+  <EntityType Name="Produto">
+    <Key>
+      <PropertyRef Name="IdProduto" />
+    </Key>
+    <Property Name="IdProduto" Type="Decimal" Precision="11" Scale="0" Nullable="false" />
+    <Property Name="descricao" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Cliente__IdCidad__3C69FB99">
+    <End Role="Cidade" Type="Self.Cidade" Multiplicity="1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cidade">
+        <PropertyRef Name="IdCidade" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="IdCidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cidade" EntityType="Self.Cidade" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Produto" EntityType="Self.Produto" />
+    <AssociationSet Name="FK__Cliente__IdCidad__3C69FB99" Association="Self.FK__Cliente__IdCidad__3C69FB99">
+      <End Role="Cidade" EntitySet="Cidade" />
+      <End Role="Cliente" EntitySet="Cliente" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
