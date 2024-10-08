@@ -1,0 +1,17 @@
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\Database1.mdf
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\Database1_log.ldf
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\AulaDB2.exe.config
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\AulaDB2.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\AulaDB2.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.csproj.AssemblyReference.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.Properties.Resources.resources
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.exe
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.pdb
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\EntityFramework.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\EntityFramework.xml
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\24100169\Desktop\Nova pasta\AulaDB2\AulaDB2\obj\Debug\AulaDB2.csproj.CopyComplete

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Depto">
+    <Key>
+      <PropertyRef Name="IdDepto" />
+    </Key>
+    <Property Name="IdDepto" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="descricao" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="IdEmpresa" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Empresa">
+    <Key>
+      <PropertyRef Name="IdEmpresa" />
+    </Key>
+    <Property Name="IdEmpresa" Type="numeric" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="RazaoSocial" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="IdEmpresaFK">
+    <End Role="Empresa" Type="Self.Empresa" Multiplicity="1" />
+    <End Role="Depto" Type="Self.Depto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Empresa">
+        <PropertyRef Name="IdEmpresa" />
+      </Principal>
+      <Dependent Role="Depto">
+        <PropertyRef Name="IdEmpresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Depto" EntityType="Self.Depto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Empresa" EntityType="Self.Empresa" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="IdEmpresaFK" Association="Self.IdEmpresaFK">
+      <End Role="Empresa" EntitySet="Empresa" />
+      <End Role="Depto" EntitySet="Depto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
