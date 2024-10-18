@@ -5,7 +5,7 @@ public class Exercicio01 {
         String nome, sobrenome;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Por favor digite seu nome: ");
+        System.out.print("Por favor, digite seu nome: ");
         nome = scanner.nextLine();
 
         System.out.print("Por favor digite seu sobrenome: ");
