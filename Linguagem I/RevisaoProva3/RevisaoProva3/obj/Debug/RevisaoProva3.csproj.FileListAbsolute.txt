@@ -1,0 +1,10 @@
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\bin\Debug\RevisaoProva3.exe.config
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\bin\Debug\RevisaoProva3.exe
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\bin\Debug\RevisaoProva3.pdb
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.csproj.AssemblyReference.cache
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.Properties.Resources.resources
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.exe
+C:\Users\24100169\Desktop\Nova pasta\RevisaoProva3\RevisaoProva3\obj\Debug\RevisaoProva3.pdb
