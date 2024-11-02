@@ -1,3 +1,3 @@
 # Liberato
-Segundo Semestre \n
-Previsão de término: 06/2026
+Segundo Semestre com
+Previsão de término: 12/2024
