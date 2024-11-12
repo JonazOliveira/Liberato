@@ -1,0 +1,10 @@
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.exe.config
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.exe
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\bin\Debug\ProvaQuestao02.pdb
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.csproj.AssemblyReference.cache
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.Properties.Resources.resources
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.exe
+C:\Users\24100169\Desktop\Nova pasta\ProvaQuestao02\ProvaQuestao02\obj\Debug\ProvaQuestao02.pdb
