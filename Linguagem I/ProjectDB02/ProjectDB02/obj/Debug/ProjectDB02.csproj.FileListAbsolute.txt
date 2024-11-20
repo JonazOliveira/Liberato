@@ -1,0 +1,12 @@
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\bin\Debug\Database1.mdf
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\bin\Debug\Database1_log.ldf
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\bin\Debug\ProjectDB02.exe.config
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\bin\Debug\ProjectDB02.exe
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\bin\Debug\ProjectDB02.pdb
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.csproj.AssemblyReference.cache
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.Form1.resources
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.Properties.Resources.resources
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.csproj.GenerateResource.cache
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.csproj.CoreCompileInputs.cache
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.exe
+C:\Users\24100169\Desktop\Nova pasta\ProjectDB02\ProjectDB02\obj\Debug\ProjectDB02.pdb
